@@ -6,7 +6,7 @@
 DevRadar
 </h1>
 
-<p align="center">quer saber os desenvolvedores perto de você de acordo com algumas tecnologias? Esse é o app ideal.</p>
+<p align="center">Quer encontrar desenvolvedores perto de você de acordo com algumas tecnologias? Esse é o app ideal.</p>
 
 [//]: # "Add your gifs/images here:"
 
@@ -26,7 +26,7 @@ Essa aplicação usa as tecnologias mais atuais do mercado.
 - ⚛️ **[React JS](https://reactjs.org/)** — Uma biblioteca JavaScript para criar interfaces de usuário
 - ⚛️ **[React Native](https://reactnative.dev/)** — Uma biblioteca JavaScript que permite criar aplicativos nativod para Android e iOS
 - 💹 **[Node JS](https://nodejs.org/en/)** — Uma biblioteca que executa javascript fora do navegador
-- ::floppy_disk: **[MongoDB](https://www.mongodb.com/)** - O banco de dados para aplicativos modernos
+- :floppy_disk: **[MongoDB](https://www.mongodb.com/)** - O banco de dados para aplicativos modernos
 
 ## :fire: Instalação
 
